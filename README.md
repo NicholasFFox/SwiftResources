@@ -2,6 +2,10 @@
 
 Here is a list of resouces/blog posts/tools that I would recommend to other Swift developers
 
+
+
+
+
 ## Resources
 
 ##### WWDC 2015
@@ -23,6 +27,9 @@ TODO: Sort these into categories
  * [Swift Protocol Composition](https://www.natashatherobot.com/swift-protocol-composition/) - Readability
 
 
+
+
+
 ## Tools
 
 #### Continuous Integration
@@ -37,6 +44,16 @@ TODO: Sort these into categories
 
 ##### Code Coverage Reports
  * [Slather](https://github.com/SlatherOrg/slather)
+
+
+
+
+## Newsletters
+
+ * [This week in Swift](https://swiftnews.curated.co)
+ * [iOS Dev Weekly](http://iosdevweekly.com)
+
+
 
 
 
