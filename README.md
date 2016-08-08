@@ -23,6 +23,7 @@ Here is a list of resouces/blog posts/tools that I would recommend to other Swif
 
 TODO: Sort these into categories
 
+ * [Beyond Crusty: Real-World Protocols](https://www.youtube.com/watch?v=QCxkaTj7QJs) by Rob Napier - Arch/Design
  * [Mixins and Traits in Swift 2.0](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/) - Arch/Design
  * [Swift Protocol Composition](https://www.natashatherobot.com/swift-protocol-composition/) - Readability
 
