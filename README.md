@@ -26,7 +26,7 @@ TODO: Sort these into categories
  * [Beyond Crusty: Real-World Protocols](https://www.youtube.com/watch?v=QCxkaTj7QJs) by Rob Napier - Arch/Design
  * [Mixins and Traits in Swift 2.0](http://matthijshollemans.com/2015/07/22/mixins-and-traits-in-swift-2/) - Arch/Design
  * [Swift Protocol Composition](https://www.natashatherobot.com/swift-protocol-composition/) - Readability
-
+ * [Advanced ObjC <-> Swift Interoperability](https://realm.io/news/altconf-nikita-lutsenko-objc-swift-interoperability/)
 
 
 
@@ -36,6 +36,7 @@ TODO: Sort these into categories
 #### Continuous Integration
 
  * [Fastlane](https://fastlane.tools)
+ * [Linty Fresh](https://github.com/lyft/linty_fresh)
 
 #### Static Analysis Tools
 
